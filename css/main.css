@@ -261,6 +261,8 @@ img {
     width: 100%;
     height: 536px;
 }
+.advantages-section {
+    padding-top: 0;
 .adv {
     display: flex;
     justify-content: space-between;
